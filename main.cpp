@@ -8,3 +8,8 @@ int main()
 
     return 0;
 }
+
+void BugFixes()
+{
+    cout << "This fixes a bug!" << endl;
+}
