@@ -25,5 +25,6 @@ void BugFixes()
 
 void FunctionA()
 {
-    cout << "This is new function A!";
+    cout << "This is new function A!" << endl;
+    cout << "A bug fixes!" << endl;
 }
