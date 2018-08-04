@@ -9,6 +9,9 @@ int main()
     return 0;
 }
 
+//  v1.0 
+//  Two bugs has been fixed!
+
 void BugFixes()
 {
     cout << "This fixes a bug!" << endl;
