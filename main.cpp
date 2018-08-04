@@ -25,6 +25,7 @@ void BugFixes()
 
 void FunctionA()
 {
-    cout << "This is new function A!" << endl;
-    cout << "A bug fixes!" << endl;
+    cout << "This is another way to implemention functionA" << endl;
+    cout << "I think this is better! Do you think so? " << endl;
 }
+
