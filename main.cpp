@@ -12,4 +12,5 @@ int main()
 void BugFixes()
 {
     cout << "This fixes a bug!" << endl;
+    cout << "This fixes a bug again! so should be commit!" << endl;
 }
