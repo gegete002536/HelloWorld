@@ -3,10 +3,13 @@
 using namespace std;
 
 void FunctionA();
+void BugFixes();
 
 int main()
 {
     cout << "Hello world!" << endl;
+    
+    BugFixes();
 
     FunctionA();
 
